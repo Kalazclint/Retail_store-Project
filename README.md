@@ -10,7 +10,7 @@ This project focuses on performing data analysis and developing machine learning
 - Contributing
 - License
 
-## Introuction
+## Introduction
 In this project, we aim to obtain information on our products orders  using exploratory analysis and identify products that are frequently purchased together using the Apriori algorithm, which is a classic algorithm for associative mining. This allows the retail company to understand the relationships between different products and potentially optimize product placement, promotions, and recommendations.
 
 Furthermore, we develop a clustering model to gain insights into customer purchase behavior. By grouping customers based on their purchasing patterns, the retail company can tailor marketing strategies to different customer segments and provide personalized recommendations.
